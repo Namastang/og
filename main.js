@@ -229,7 +229,7 @@ function startGame() {
   myObstacle = new component(10, 200, "green", 300, 120);
   myBackground = new component(490,290,"https://cdn.concreteplayground.com/content/uploads/2022/03/Sonic-the-Hedgehog-2_02_supplied-1920x1440.jpg",0,0,"background")
   myScore = new component("30px","Arial","white",28,40,"text")
-  mySound = new sound("ytmp3free.cc_melanie-martinez-tunnel-vision-lyrics-youtubemp3free.org.mp3");
+  mySound = new sound("tunnelvision.mp3");
   myGameArea.start()
 }
 startGame()
